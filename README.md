@@ -1,16 +1,17 @@
 SPELLING CORRECTION
 -------------------
 
-Corpus Used: Writings of secondary-school children, collected by David Holbrook
+**Corpus Used:** Writings of secondary-school children, collected by David Holbrook
 
-Language Models Implemented:
-1. Uniform Language Model
-2. Laplace Unigram Language Model
-3. Laplace Bigram Language Model
-4. Stupid Back-off Model
-5. 3-gram Language Model
+**Language Models Implemented:**
+<ol>
+<li>Uniform Language Model
+<li>Laplace Unigram Language Model
+<li>Laplace Bigram Language Model
+<li>Stupid Back-off Model
+<li>3-gram Language Model
+</ol>
 
+**Main Class:** SpellCorrect.java
 
-Main Class: SpellCorrect.java
-
-If you have never worked on spelling correction before, I would recommend you visit http://norvig.com/spell-correct.html
+**P.S.** If you have never worked on spelling correction before, I would recommend you visit http://norvig.com/spell-correct.html
